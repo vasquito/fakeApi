@@ -46,13 +46,94 @@
          "rating":2.0
       },
       {
-         "id":99999999,
-         "title":"Uzumaki Naruto 9999",
-         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
-         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
-         "store_date":"2015-09-30",
+         "id":437483,
+         "title":"The Black Lodge Part Two: Voluntary Discharge; Three O'Clock High",
+         "desc":"<p><em>Continuing the special celebration of THE ORIGINAL SPIDER-MAN from Man of Action's Joe Casey &amp; Tim Green (AVENGERS ACADEMY)!</em></p><p><em>What is the Black Lodge? And how has Spider-Man been trapped there, surrounded by his deadliest foes? Then, the Black Cat and Spider-Man team-up to bust an international art thievery ring in CAT &amp; MOUSE by Jen Van Meter (CAPTAIN MARVEL) and Emma Rios (AMAZING SPIDER-MAN).</em></p><p><em>Finally, a young boy must learn he can't rely on super heroes like Spider-Man to stand up against bullies in 12 O'CLOCK HIGH by Clay Chapman (AVENGERS: EARTH'S MIGHTIEST HEROES) and Javier Rodriguez (DAREDEVIL).</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Pasqual Ferry &amp; Andres Mossa</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>John Tyler Christopher</td><td>2</td></tr></tbody></table>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/3507905-700.4.jpg",
+         "store_date":"2013-12-18",
          "price":8000,
-         "rating":4.7
-      }
+         "rating":4.1
+      },
+      {
+         "id":436190,
+         "title":"Frost Part Two",
+         "desc":"<p><em>One year after his death at the hands of the Superior Spider-Man - PETER PARKER IS BACK!</em></p><p><em>Acclaimed novelist David Morrell (First Blood) and legendary comics icon Klaus Janson (DAREDEVIL: END OF DAYS) team up to kick off this celebration of the world's greatest super hero!</em></p><p><em>With a blizzard crippling New York City, Spider-Man must protect the city - but Aunt May's life is in danger!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Pasqual Ferry &amp; Lee Loughridge</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Mirco Federici &amp; Lee Duhig </td><td>2</td></tr></tbody></table>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/3493706-700.2a.jpg",
+         "store_date":"2013-12-11",
+         "price":10500,
+         "rating":4.2
+      },
+      {
+         "id":4,
+         "title":"STAR WARS: TOMO RECOPILATORIO 1",
+         "desc":"<p><em>Luke Skywalker y los rebeldes acaban de salir de su mayor victoria hasta la fecha (la destrucción de la estación estelar conocida como La Estrella de la Muerte). Pero el Imperio aún no ha sido derrotado...</em></p>",
+         "cover":"https://hips.hearstapps.com/hmg-prod/images/star-wars-comic-1-1544025393.jpg?crop=1xw:1xh;center,top&resize=980:*",
+         "store_date":"2011-10-11",
+         "price":12500,
+         "rating":4.8
+      },
+      {
+         "id":5,
+         "title":"STAR WARS: TOMO RECOPILATORIO 2",
+         "desc":"<p><em>Luke, en busca de pistas sobre su destino, volvió a Tatooine, su planeta natal, donde descubrió el diario secreto que le dejó el maestro jedi Obi-Wan Kenobi. Mientras, Han y Leia se enfrentarán a su mayor problema: la mujer de Han.</em></p>",
+         "cover":"https://hips.hearstapps.com/hmg-prod/images/star-wars-comic-2-1544025394.jpg?crop=1xw:1xh;center,top&resize=980:*",
+         "store_date":"2012-10-11",
+         "price":12500,
+         "rating":4.8
+      },
+      {
+         "id":6,
+         "title":"STAR WARS: TOMO RECOPILATORIO 3",
+         "desc":"<p><em>Agentes dobles complican toda la trama... además de contar con una nueva aventura de 'Los diarios de Obi-Wan Kenobi'.</em></p>",
+         "cover":"https://hips.hearstapps.com/hmg-prod/images/star-wars-comic-3-1544025394.jpg?crop=1xw:1xh;center,top&resize=980:*",
+         "store_date":"2013-10-11",
+         "price":12500,
+         "rating":4.5
+      },
+      {
+         "id":7,
+         "title":"STAR WARS: TOMO RECOPILATORIO 4",
+         "desc":"<p><em>Los rebeldes tienen otra nueva misión: destruir el arma de guerra llamada Destructor Heraldo. Además: en un relato del pasado, Jabba tiene un problema y contrata al cazarrecompensas wookie Krrsantan el Negro para que lo solucione. ¡Y por si fuera poco, R2-D2 en una aventura en solitario!</em></p>",
+         "cover":"https://hips.hearstapps.com/hmg-prod/images/star-wars-comic-4-1544025395.jpg?crop=1xw:1xh;center,top&resize=980:*",
+         "store_date":"2013-11-01",
+         "price":12500,
+         "rating":4.3
+      }, 
+      {
+         "id":8,
+         "title":"DARTH MAUL: HIJO DE DATHOMIR",
+         "desc":"<p><em>Por mucho que Obi-Wan Kenobi lo cortara por la mitad y su maestro renegase de él, Darth Maul no se da por vencido. De hecho, para lo único que ha servido lo que le ha sucedido es para que se ponga como loco y quiera acabar con la galaxia entera. Maul da forma a la Cooperativa de la Sombra y se lanza contra Darth Sidious y sus generales... ¡y también contra los jedi!</em></p>",
+         "cover":"https://hips.hearstapps.com/hmg-prod/images/darth-maul-comic-1544025393.jpg?crop=1xw:1xh;center,top&resize=980:*",
+         "store_date":"2012-07-01",
+         "price":12500,
+         "rating":4.5
+      },
+      {
+         "id":9,
+         "title":"Kanan, el último padawan",
+         "desc":"<p><em>Kanan es un personaje nuevo, alejado de los patrones Skywalker o Palpatine, un folio en blanco para explorar la personalidad de uno de los tantos aprendices que había por aquel entonces repartidos por la galaxia. Además, al mando del apartado ilustrativo está el madrileño Pepe Larraz, uno de los mejores dibujantes del momento. Estamos rendidos al trabajo del artista español, tan polivalente y resolutivo en cada personaje que retrata. Da igual si es Lobezno, un equipo como Los Vengadores o una nueva colección dentro del entramado de Star Wars, porque en el trabajo de Pepe Larraz se puede confiar.</em></p>",
+         "cover":"https://miro.medium.com/v2/resize:fit:640/format:webp/0*q-438GOofbjgwFUK.jpg",
+         "store_date":"2018-07-01",
+         "price":14500,
+         "rating":4.9
+      },
+      {
+         "id":10,
+         "title":"LA SENDA DEL DESTINO",
+         "desc":"<p><em>La Alianza Rebelde se ha visto obligada a diseminarse tras su derrota en Hoth. Para escapar del Imperio, Han Solo, la princesa Leia Organa, Chewbacca y C-3PO huyeron en el Halcón Milenario con la esperanza de encontrar refugio con Lando Calrissian, un viejo amigo de Han.</br>Sin embargo, Darth Vader se les adelantó y llegó antes a Ciudad Nube.</br>El Señor Oscuro obligó a Lando a detenerlos como cebo para atraer a Luke Skywalker a una trampa y, aunque Leia lideró una fuga muy valiente, Han Solo se quedó atrás como botín para uno de los cazadores de recompensas del señor de los sith. Ahora, Luke está a punto de desmoronarse tras su derrota a manos de Darth Vader…</em></p>",
+         "cover":"https://www.tebeosfera.com/T3content/img/T3_numeros/i/z/star-wars-destiny-path-tomo-n-01_jesus-saiz/w-200_star-wars-destiny-path-tomo-n-01_jesus-saiz.jpg",
+         "store_date":"2020-07-01",
+         "price":14500,
+         "rating":4.9
+      },
+      {
+         "id":37257,
+         "title":"Nightmare on Bleecker Street",
+         "desc":"<p><em>After freeing Morbius’ body, Nightmare crosses the threshold of our dimension through Doc's body!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/5/58234/8371343-img836.jpg",
+         "store_date":"1993-05-01",
+         "price":6500,
+         "rating":3.9
+      }     
    ]
 }
