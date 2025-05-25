@@ -26,6 +26,141 @@
          "store_date":"2015-09-30",
          "price":8000,
          "rating":4.7
+      },
+      {
+         "id":70,
+         "title":"Naruto and the Sage of Six Paths",
+         "desc":"<h4><em>Naruto and the Sage of Six Paths</em></h4><p><em>In order to face off against Madara and his newly acquired Six Paths power, Guy pulls out his most dangerous move. Guy has put his very life on the line, but is it enough against Madara? Meanwhile, as Naruto fights on the edge of death, he meets a special figure who may change the entire direction of the battle!</em></p><h2>Chapter Titles</h2><ul><li>Number 669: The Eight Inner Gates Formation!!</li><li>Number 670: He of the Beginning...!!</li><li>Number 671: Naruto and the Sage of the Six Paths!!</li><li>Number 672: Night Guy!!</li><li>Number 673: We Will…!!</li><li>Number 674: Sasuke's Rinnegan</li><li>Number 675: Your Current Dream</li><li>Number 676: The Infinite Dream</li><li>Number 677: The Infinite Tsukuyomi</li><li>Number 678: My Will Is...</li><li>Number 679: She of the Beginning</li></ul>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4598258-70.jpg",
+         "store_date":"2015-06-03",
+         "price":12000,
+         "rating":3.7
+      },
+      {
+         "id":472034,
+         "title":"Path",
+         "desc":"<p><strong><em>Path</em></strong></p><p><em>Even as the Shinobi Alliance’s resolve begins to falter in the face of Obito’s overwhelming power, Naruto refuses to give in. But how can he turn the tables with the odds so stacked against him? Can Naruto and Sasuke work together long enough to lead the ninja world to victory?!</em></p><h2>Chapter Titles</h2><ul><li>Number 648: A Shinobi's Dream!!</li><li>Number 649: A Shinobi's Will</li><li>Number 650: Those Who Shall Sleep</li><li>Number 651: That Which Fills the Hole</li><li>Number 652: Naruto's Path</li><li>Number 653: I'm Always Watching</li><li>Number 654: I'm Uchiha Obito</li><li>Number 655: Path</li><li>Number 656: The Switch</li><li>Number 657: Uchiha Madara, In the Flesh</li></ul>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4253049-68.jpg",
+         "store_date":"2014-12-03",
+         "price":4000,
+         "rating":2.0
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },{
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
+      },
+      {
+         "id":72dd,
+         "title":"Uzumaki Naruto",
+         "desc":"<h4><em>Uzumaki Naruto</em></h4><p><em>With Naruto and Sasuke working together, Kaguya is finally sealed away for good. But just when it seems that the ninja world can find true peace, one more obstacle appears. Fueled by opposing ideals, Naruto and Sasuke will determine the future of the world in one final fight!</em></p>",
+         "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
+         "store_date":"2015-09-30",
+         "price":8000,
+         "rating":4.7
       }
+      
    ]
 }
