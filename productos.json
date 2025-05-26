@@ -7,7 +7,8 @@
          "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/11/110017/9720720-wwww.jpg",
          "store_date":"2025-05-14",
          "price":10000,
-         "rating":4.7
+         "rating":4.7,
+         "category":"DC Comics"
       },
       {
          "id":1082,
@@ -16,7 +17,8 @@
          "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/11/110017/9599474-wwww.jpg",
          "store_date":"2025-01-15",
          "price":10000,
-         "rating":4.7
+         "rating":4.7,
+         "category":"DC Comics"
       },
       {
          "id":72,
@@ -25,7 +27,8 @@
          "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4826308-72.jpg",
          "store_date":"2015-09-30",
          "price":8000,
-         "rating":4.7
+         "rating":4.7,
+         "category":"Otros"
       },
       {
          "id":70,
@@ -34,7 +37,8 @@
          "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4598258-70.jpg",
          "store_date":"2015-06-03",
          "price":12000,
-         "rating":3.7
+         "rating":3.7,
+         "category":"Otros"
       },
       {
          "id":472034,
@@ -43,7 +47,8 @@
          "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/4253049-68.jpg",
          "store_date":"2014-12-03",
          "price":4000,
-         "rating":2.0
+         "rating":2.0,
+         "category":"Otros"
       },
       {
          "id":437483,
@@ -52,7 +57,8 @@
          "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/3507905-700.4.jpg",
          "store_date":"2013-12-18",
          "price":8000,
-         "rating":4.1
+         "rating":4.1,
+         "category":"Marvel"
       },
       {
          "id":436190,
@@ -61,7 +67,8 @@
          "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/6/67663/3493706-700.2a.jpg",
          "store_date":"2013-12-11",
          "price":10500,
-         "rating":4.2
+         "rating":4.2,
+         "category":"Marvel"
       },
       {
          "id":4,
@@ -70,7 +77,8 @@
          "cover":"https://hips.hearstapps.com/hmg-prod/images/star-wars-comic-1-1544025393.jpg?crop=1xw:1xh;center,top&resize=980:*",
          "store_date":"2011-10-11",
          "price":12500,
-         "rating":4.8
+         "rating":4.8,
+         "category":"Star Wars"
       },
       {
          "id":5,
@@ -79,7 +87,8 @@
          "cover":"https://hips.hearstapps.com/hmg-prod/images/star-wars-comic-2-1544025394.jpg?crop=1xw:1xh;center,top&resize=980:*",
          "store_date":"2012-10-11",
          "price":12500,
-         "rating":4.8
+         "rating":4.8,
+         "category":"Star Wars"
       },
       {
          "id":6,
@@ -88,7 +97,8 @@
          "cover":"https://hips.hearstapps.com/hmg-prod/images/star-wars-comic-3-1544025394.jpg?crop=1xw:1xh;center,top&resize=980:*",
          "store_date":"2013-10-11",
          "price":12500,
-         "rating":4.5
+         "rating":4.5,
+         "category":"Star Wars"
       },
       {
          "id":7,
@@ -97,7 +107,8 @@
          "cover":"https://hips.hearstapps.com/hmg-prod/images/star-wars-comic-4-1544025395.jpg?crop=1xw:1xh;center,top&resize=980:*",
          "store_date":"2013-11-01",
          "price":12500,
-         "rating":4.3
+         "rating":4.3,
+         "category":"Star Wars"
       }, 
       {
          "id":8,
@@ -106,7 +117,8 @@
          "cover":"https://hips.hearstapps.com/hmg-prod/images/darth-maul-comic-1544025393.jpg?crop=1xw:1xh;center,top&resize=980:*",
          "store_date":"2012-07-01",
          "price":12500,
-         "rating":4.5
+         "rating":4.5,
+         "category":"Star Wars"
       },
       {
          "id":9,
@@ -115,7 +127,8 @@
          "cover":"https://miro.medium.com/v2/resize:fit:640/format:webp/0*q-438GOofbjgwFUK.jpg",
          "store_date":"2018-07-01",
          "price":14500,
-         "rating":4.9
+         "rating":4.9,
+         "category":"Star Wars"
       },
       {
          "id":10,
@@ -124,7 +137,8 @@
          "cover":"https://www.tebeosfera.com/T3content/img/T3_numeros/i/z/star-wars-destiny-path-tomo-n-01_jesus-saiz/w-200_star-wars-destiny-path-tomo-n-01_jesus-saiz.jpg",
          "store_date":"2020-07-01",
          "price":14500,
-         "rating":4.9
+         "rating":4.9,
+         "category":"Star Wars"
       },
       {
          "id":37257,
@@ -133,7 +147,8 @@
          "cover":"https://comicvine.gamespot.com/a/uploads/scale_small/5/58234/8371343-img836.jpg",
          "store_date":"1993-05-01",
          "price":6500,
-         "rating":3.9
+         "rating":3.9,
+         "category":"DC Comics"
       }     
    ]
 }
